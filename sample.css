@@ -86,6 +86,12 @@ button:active {
     transform: scale(1.05);
 }
 
+.chart-container {
+    margin-top: 40px; /* チャートとコメントの間に余白を追加 */
+    max-width: 80%; /* レーダーチャートの最大幅を設定 */
+    height: auto; /* 高さを自動調整 */
+    margin: 0 auto; /* 中央揃え */
+}
 
 #myChart {
     width: 100%; /* チャートをコンテナに合わせる */
@@ -98,6 +104,13 @@ button:active {
     height: auto;
     margin-top: 20px;
     border-radius: 10px;
+}
+
+.comments {
+    margin-top: 20px;
+    font-size: 18px; /* コメントのフォントサイズ */
+    color: #333; /* コメントの色 */
+}
 
 @media (max-width: 600px) {
     h2 {
@@ -118,5 +131,4 @@ button:active {
     .comments {
         font-size: 16px; /* 小さい画面でコメントのフォントサイズを調整 */
     }
-}
 }
