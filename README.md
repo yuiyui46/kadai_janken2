@@ -2,8 +2,7 @@
 
 ②課題内容（どんな作品か）　　 -健康経営チェックリスト
 
-③DEMO　　 https://yuiyui46.github.io/kadai01_janken_1/
-
+③DEMO　　 https://yuiyui46.github.io/kadai_janken2/
 ④作ったアプリケーション用のIDまたはPasswordがある場合　　 -ID: 今回なし　　 -PW: 今回なし　　
 
 ⑤こだわった点　　 -レスポンシブデザイン -レーダーチャートで強み、弱みが一目瞭然 -ボタンや文字のhoverを活用した滑らかなアニメーション -Faviconをつけてみた点
